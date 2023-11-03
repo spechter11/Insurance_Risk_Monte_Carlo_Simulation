@@ -20,7 +20,7 @@ pip install -r requirements.txt
 To run the simulation, execute the main script:
 
 ```bash
-python monte_carlo_simulation.py
+python insurancemonte.py
 ```
 
 ## Output
